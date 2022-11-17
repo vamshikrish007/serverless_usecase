@@ -11,5 +11,5 @@
 </p>
 <br/>
 <p align="center">
-  <img src="images/brach_creation_@.png"  alt="braching on git">
+  <img src="images/brach_creation_2.png"  alt="braching on git">
 </p>
