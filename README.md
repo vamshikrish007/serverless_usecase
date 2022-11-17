@@ -8,7 +8,6 @@
 <p align="center">
   <img src="images/brach_creation.png"  alt="braching on git">
 </p>
-<br/>
 <p align="center">
   <img src="images/brach_creation_2.png"  alt="braching on git">
 </p>
