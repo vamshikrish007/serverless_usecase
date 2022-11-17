@@ -11,3 +11,8 @@
 <p align="center">
   <img src="images/brach_creation_2.png" width="350" height="100"  alt="braching on git">
 </p>
+
+<h4>Create a AWS Serverless Templete:</h4>
+<p>
+    Run the following command -> {serverless create --template aws-python3} 
+</p>
