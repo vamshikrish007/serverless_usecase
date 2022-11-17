@@ -4,7 +4,6 @@
    cmd-3: git commit -a -m "write comments here"</br>
    cmd-4: create origin for every new repo</br>
    cmd-5: Run the following cmd after that -> git push origin1 master</p>
-
 <h4>Process to checkout a branch in git:</h4>
 <p align="center">
   <img src="images/brach_creation.png"  alt="braching on git">
