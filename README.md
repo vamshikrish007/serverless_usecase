@@ -16,3 +16,12 @@
 <p>
     Run the following command -> {serverless create --template aws-python3} 
 </p>
+
+<p>
+PS C:\Users\vamshi krishna\Downloads\serverless_usecase> git add .
+warning: in the working copy of 'serverless.yml', LF will be replaced by CRLF the next time Git touches it
+PS C:\Users\vamshi krishna\Downloads\serverless_usecase> git commit -a -m "pushing-git-actions"
+[main 47cef2c] pushing-git-actions
+ 1 file changed, 2 insertions(+)
+PS C:\Users\vamshi krishna\Downloads\serverless_usecase> git push -u origin1 main
+</p>
